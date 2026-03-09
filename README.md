@@ -40,4 +40,7 @@
   <a href="https://linkedin.com/in/TWÓJ-PROFIL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:dkiernozek@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  </a>
 </p>
