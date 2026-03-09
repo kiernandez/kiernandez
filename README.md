@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Twoje Imię] 👋</h1>
+<h1 align="center">Hi, I'm Damian 👋</h1>
 
 <img align="right" alt="Crypto" width="380" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"/>
 
@@ -6,7 +6,7 @@
 
 - 🎓 Studying **Cryptology & Cybersecurity**
 - ⬡ Designing **cryptographic circuits on FPGA**
-- ⟨ψ⟩ Researching **Post-Quantum Cryptography** (Circuit ABE)
+- ⟨ψ⟩ Researching **Post-Quantum Cryptography**
 - 🔐 Passionate about the math behind secure systems
 - 📖 *"Security is not a product, but a process"*
 
