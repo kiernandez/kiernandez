@@ -5,7 +5,7 @@
 ## About Me
 
 - 🎓 Studying **Cryptology & Cybersecurity**
-- ⬡ Designing **cryptographic circuits on FPGA**
+- ⬡ Designing **Cryptographic circuits on FPGA**
 - ⟨ψ⟩ Researching **Post-Quantum Cryptography**
 - 🔐 Passionate about the math behind secure systems
 - 📖 *"Security is not a product, but a process"*
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/SageMath-FF6B35?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=amd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
