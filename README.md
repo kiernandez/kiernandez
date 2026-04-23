@@ -8,7 +8,7 @@
 - ⬡ Designing **Cryptographic circuits on FPGA**
 - ⟨ψ⟩ Researching **Post-Quantum Cryptography**
 - 🔐 Passionate about the math behind secure systems
-- Passionate about sports… except rollerblading, don't ask why
+- Passionate about sports… except rollerblading, **don't ask why**
 
 <br clear="right"/>
 
