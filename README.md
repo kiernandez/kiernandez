@@ -8,7 +8,6 @@
 - ⬡ Designing **Cryptographic circuits on FPGA**
 - ⟨ψ⟩ Researching **Post-Quantum Cryptography**
 - 🔐 Passionate about the math behind secure systems
-- 📖 *"Security is not a product, but a process"*
 
 <br clear="right"/>
 
