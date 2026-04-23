@@ -24,6 +24,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+## Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/9a9376f2-92e6-436f-a27f-bf202fffb796" target="_blank">
+    <img src="assets/btl1.png" alt="Blue Team Level 1 (BTL1)" width="130"/>
+  </a>
+</p>
+
 ## Research Interests
 ```
 🔹 Lattice-based Cryptography
